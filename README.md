@@ -33,6 +33,7 @@ as a top-tier world model, LingBot-World offers the following features.
 </div>
 
 ## 🔥 News
+- Apr 2, 2026: 🎉 We release the **LingBot-World-Fast** model weights.
 - Mar 2, 2026: 🎉 We release the **LingBot-World-Base (Act)** model weights.
 - Jan 29, 2026: 🎉 We release the technical report, code, and models for LingBot-World.
 
@@ -66,7 +67,7 @@ pip install flash-attn --no-build-isolation
 | :---  | :--- | :--- | :--- |
 | **LingBot-World-Base (Cam)** | Camera Poses | 480P & 720P | 🤗 [HuggingFace](https://huggingface.co/robbyant/lingbot-world-base-cam) 🤖 [ModelScope](https://www.modelscope.cn/models/Robbyant/lingbot-world-base-cam) |
 | **LingBot-World-Base (Act)** | Actions | 480P & 720P | 🤗 [HuggingFace](https://huggingface.co/robbyant/lingbot-world-base-act) |
-| **LingBot-World-Fast**       |    -    | - | *To be released* |
+| **LingBot-World-Fast**       | Camera Poses | 480P & 720P | 🤗 [HuggingFace](https://huggingface.co/robbyant/lingbot-world-fast)  |
 
 Download models using huggingface-cli:
 ```sh
