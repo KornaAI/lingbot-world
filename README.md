@@ -7,6 +7,15 @@ Robbyant Team
 
 </div>
 
+> [!NOTE]
+> ## 🎉 LingBot-World-Infinity is now available!
+>
+> This repository is **no longer actively maintained**.
+>
+> **👉 Please use the latest repository:**
+> **https://github.com/Robbyant/lingbot-world-v2**
+>
+> All future updates, new models, and new features will be released in **LingBot-World-Infinity**.
 
 <div align="center">
 
