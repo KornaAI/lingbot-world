@@ -20,7 +20,7 @@ Robbyant Team
 
 ### 🔍 Preview Comparison
 
-https://github.com/user-attachments/assets/8f5e783b-2b71-4946-85c4-f03422111e0d
+https://github.com/user-attachments/assets/0ec4d395-2b67-48c3-910c-88acaa1ca805
 
 <div align="center">
 
